@@ -6,6 +6,7 @@
 ### Contacts
 
   * __Telegram:__ [igorok_by](https://t.me/igorok_by)
+  * __WhatsApp:__ [igorok_by](https://wa.me/375298250761)
   * __Email:__ [igorko.by@gmail.com](igorko.by@gmail.com)
   * __Skype:__ [igorok.by](skype:igorok.by?chat)
   
