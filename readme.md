@@ -1,1 +1,1 @@
-[RSSchool CV](https://igorok-by.github.io/rsschool-cv/cv.md)
+[RSSchool CV](https://igorok-by.github.io/rsschool-cv/cv)
