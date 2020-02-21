@@ -26,6 +26,7 @@
   Webpack | 40%
   ReactJS | 35%
   VSCode | 60%
+  ChromeDevTools | 50%
 
 
 ### Code examples
